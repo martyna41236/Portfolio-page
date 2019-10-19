@@ -1,3 +1,3 @@
 # portfolioPage
-Portfolio page from mock-up
-https://martyna41236.github.io/portfolioPage/
+Portfolio page based on mock-up
+https://martyna41236.github.io/Portfolio-page/
